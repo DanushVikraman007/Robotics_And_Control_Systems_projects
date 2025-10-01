@@ -43,11 +43,11 @@ Heading error
 
 Requirements: MATLAB + Optimization Toolbox
 
-###3. 3-Link Robotic Arm Mouse-Follow Simulation
+### 3. 3-Link Robotic Arm Mouse-Follow Simulation
 
 An interactive 3-link planar robotic arm simulation that follows mouse movement in real time, with trajectory logging.
 
-Features:
+*** Features: ***
 
 Inverse kinematics for 3-link planar arm
 
